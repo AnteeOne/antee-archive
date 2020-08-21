@@ -8,3 +8,4 @@ Storage of useful resourses , that may can help you in development 😎
 ## Android Development
 - 🔋 http://developer.alexanderklimov.ru/android/ - cool site with android dev and kotlin lessons
 ## Machine Learning
+- :octocat: https://stepik.org/course/401 - good course on stepik with a lot of lessons on neyral networks
