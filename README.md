@@ -8,5 +8,7 @@ Storage of useful resourses , that may can help you in development 😎
 - :japanese_goblin: https://www.pythonanywhere.com - cool site for django projects deploying
 ## Android Development
 - 🔋 http://developer.alexanderklimov.ru/android/ - cool site with android dev and kotlin lessons
+- :collision: https://www.uxmatters.com/mt/archives/2013/02/how-do-users-really-hold-mobile-devices.php - how users interact with mobile devices
+- :smiling_imp: https://material.io -site with a lot of material design icons
 ## Machine Learning
 - :octocat: https://stepik.org/course/401 - good course on stepik with a lot of lessons on neyral networks
