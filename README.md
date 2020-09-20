@@ -13,3 +13,5 @@ Storage of useful resourses , that may can help you in development 😎
 - 🌀 https://pixabay.com/ - a lot of free pictures that you can use in your own products
 ## Machine Learning
 - :octocat: https://stepik.org/course/401 - good course on stepik with a lot of lessons on neyral networks
+## Game Development
+- :dog: https://itch.io - a lot of free sprites for your games c:
