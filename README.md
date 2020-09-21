@@ -16,4 +16,4 @@ Storage of useful resourses , that may can help you in development 😎
 ## Game Development
 - :dog: https://itch.io - a lot of free sprites for your games c:
 - :ghost: https://github.com/libktx/ktx - libKTX repo
-- :tv: https://github.com/ImXico/Cyberpunk - collection of some library for libKTX library
+- :tv: https://github.com/ImXico/Cyberpunk - collection of some libraries for libKTX library
