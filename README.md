@@ -15,3 +15,5 @@ Storage of useful resourses , that may can help you in development 😎
 - :octocat: https://stepik.org/course/401 - good course on stepik with a lot of lessons on neyral networks
 ## Game Development
 - :dog: https://itch.io - a lot of free sprites for your games c:
+- :ghost: https://github.com/libktx/ktx - libKTX repo
+- :tv: https://github.com/ImXico/Cyberpunk - collection of some library for libKTX library
