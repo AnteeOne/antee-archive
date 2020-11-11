@@ -8,6 +8,7 @@ Storage of useful resourses , that may can help you in development 😎
 - :godmode:  https://www.youtube.com/channel/UCMOjK9NwSgDnt2ujXnjiVIw - another cool youtube channer with videos on django and restapi
 - :japanese_goblin: https://www.pythonanywhere.com - cool site for django projects deploying
 ## Android Development
+- :ghost: https://github.com/MindorksOpenSource/android-developer-roadmap - android developer roadmap
 - 🔋 http://developer.alexanderklimov.ru/android/ - cool site with android dev and kotlin lessons
 - :collision: https://www.uxmatters.com/mt/archives/2013/02/how-do-users-really-hold-mobile-devices.php - how users interact with mobile devices
 - :smiling_imp: https://material.io -site with a lot of material design icons
