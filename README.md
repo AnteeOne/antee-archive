@@ -13,12 +13,15 @@ Storage of useful resourses , that may can help you in development 😎
 - :collision: https://www.uxmatters.com/mt/archives/2013/02/how-do-users-really-hold-mobile-devices.php - how users interact with mobile devices
 - :smiling_imp: https://material.io -site with a lot of material design icons
 - 🌀 https://pixabay.com/ - a lot of free pictures that you can use in your own products
-- :tv: https://github.com/AsynctaskCoffee/VideoLayout - cool VideoLayout Library
+
 ### 🐜 Useful Libraries
  - https://github.com/hdodenhof/CircleImageView - Circle ImageView
- - https://github.com/mikepenz/MaterialDrawer/tree/v7.0.0 - Mike Penz's MaterialDrawer 
+ - https://github.com/mikepenz/MaterialDrawer/tree/v7.0.0 - Mike Penz's MaterialDrawer
+ - https://github.com/AsynctaskCoffee/VideoLayout - cool VideoLayout Library
+ 
 ## Machine Learning
 - :octocat: https://stepik.org/course/401 - good course on stepik with a lot of lessons on neyral networks
+
 ## Game Development
 - :dog: https://itch.io - a lot of free sprites for your games c:
 - :ghost: https://github.com/libktx/ktx - libKTX repo
