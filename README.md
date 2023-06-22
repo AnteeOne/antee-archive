@@ -14,7 +14,7 @@ Storage of useful resourses , that may can help you in development 😎
 - :smiling_imp: https://material.io -site with a lot of material design icons
 - 🌀 https://pixabay.com/ - a lot of free pictures that you can use in your own products
 - :ghost: https://proandroiddev.com/5-common-mistakes-when-using-architecture-components-403e9899f4cb - cool article about how correct using mvvm in your projects
-- :neckbeard: [https://proandroiddev.com/5-common-mistakes-when-using-architecture-components-403e9899f4cb](https://storyset.com/) - awesome free customizable illustrations for your next project
+- :neckbeard: https://storyset.com/ - awesome free customizable illustrations for your next project
 
 ### 🐜 Useful Libraries
  - https://github.com/hdodenhof/CircleImageView - Circle ImageView
